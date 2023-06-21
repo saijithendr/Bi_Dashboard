@@ -7,13 +7,13 @@ To unlock Sales Insights that are not visible before for sales team for decision
 
 The Insights contains -
 
-Revenue by Markets
-Sales Quantity by Markets
-Profit Margin by Markets
-Profit trend by Year
-Revenue by Year
-Top 5 Customers by Profit and Revenue
-Top 5 Products by Profit and Revenue
+* Revenue by Markets
+* Sales Quantity by Markets
+* Profit Margin by Markets
+* Profit trend by Year
+* Revenue by Year
+* Top 5 Customers by Profit and Revenue
+* Top 5 Products by Profit and Revenue
 
 ## Recommendations
 Based on the dashbaords insights, I have made some recommendation that Sales Marketing team should/can -
