@@ -9,17 +9,6 @@ The Insights contains -
 
 * Revenue by Markets
 * Sales Quantity by Markets
-* Profit Margin by Markets
-* Profit trend by Year
 * Revenue by Year
 * Top 5 Customers by Profit and Revenue
 * Top 5 Products by Profit and Revenue
-
-## Recommendations
-Based on the dashbaords insights, I have made some recommendation that Sales Marketing team should/can -
-
-* consider making a sales strategy for especially lucknow since its showing lowest revenue and negative profit margin and if possible so as for Surat and Bhubhaneshwar also.
-* try to increase its sales quantity in Patna, Surat and Kanpur since they have lowest sales quantity.
-* start their target campagin for Prod047 and Prod061 since they two are the most profitable and most selling products.
-* try to give special benefits to Electronics and _Excel store_s as they are their most profitable customers.
-* make their campgain strategy for mid year as they are showing high sales among other months.
